@@ -1,0 +1,16 @@
+# Python 3.14, NVIDIA GPU
+
+streamlit==1.60.0
+opencv-python==4.10.0.84
+numpy==2.5.1
+insightface==1.0.1
+scikit-learn==1.9.0
+joblib==1.5.3
+matplotlib==3.11.1
+seaborn==0.13.2
+onnxruntime-gpu==1.27.0
+tqdm==4.69.0
+requests==2.34.2
+Pillow==12.3.0
+pandas==3.0.5
+click==8.4.2
